@@ -28,6 +28,7 @@ DATABASES = {
     "basic"        : "com.yahoo.ycsb.BasicDB",
     "cassandra-10" : "com.yahoo.ycsb.db.CassandraClient10",
     "cassandra-cql": "com.yahoo.ycsb.db.CassandraCQLClient",
+    "cloudant"     : "com.cloudant.ycsb.db.CloudantDbClient",
     "dynamodb"     : "com.yahoo.ycsb.db.DynamoDBClient",
     "elasticsearch": "com.yahoo.ycsb.db.ElasticSearchClient",
     "gemfire"      : "com.yahoo.ycsb.db.GemFireClient",

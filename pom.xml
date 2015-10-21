@@ -59,6 +59,7 @@
     <!--module>build-tools</module-->
     <module>aerospike</module>
     <module>cassandra</module>
+    <module>cloudant</module>
     <module>core</module>
     <module>couchbase-2.0</module>
     <module>hbase</module>
